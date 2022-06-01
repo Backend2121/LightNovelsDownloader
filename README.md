@@ -1,5 +1,5 @@
 # VisualNovelsDownloader
-Downloads visual novels from lightnovelpub.com
+Downloads light novels from lightnovelpub.com
 
 
 Using Undetected-chromedriver:
